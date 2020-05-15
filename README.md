@@ -9,5 +9,6 @@ YouTubeチャンネル「徳丸浩のウェブセキュリティ講座」で実�
 - [安全でないデシリアライゼーション入門～応用編～](./insecure-deserialization-part2)
 
 
+YouTubeチャンネル　[徳丸浩のウェブセキュリティ講座](https://www.youtube.com/channel/UCLNW6Bo_YU3TxnzsII2gEDA)
 
-
+短縮URL : https://j.mp/web-sec-study
