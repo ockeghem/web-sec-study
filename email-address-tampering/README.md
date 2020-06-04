@@ -14,7 +14,7 @@
 /var/www/html/todo/changemail.php: 41行目追加
 ```
     <input type="hidden" name="<?php e(TOKENNAME); ?>" value="<?php e($token); ?>">
-+   <input type="hidden" name="id" value="<?php e($reqid); ?>">
++   <input type="hidden" name="id" value="<?php e($id); ?>">
     <?php if ($reqid !== $id) : ?>
 ```
 
