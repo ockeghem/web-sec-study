@@ -49,6 +49,6 @@
 - [お名前.com Naviで発生した事象につきまして](https://www.onamae.com/news/domain/20200603_1/)
 
 
-動画URL : []()
+動画URL : [徳丸本VMに1行追加するだけでメールアドレス改ざんの実習環境を作ろう](https://www.youtube.com/watch?v=1MpNWGLTP1g)
 
 YouTubeチャンネル　[徳丸浩のウェブセキュリティ講座](https://www.youtube.com/channel/UCLNW6Bo_YU3TxnzsII2gEDA)
