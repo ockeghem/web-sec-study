@@ -13,7 +13,7 @@ YouTubeチャンネル「徳丸浩のウェブセキュリティ講座」で実�
 - [徳丸本VMをNessusでプラットフォーム診断してみよう](./1st-scan-with-nessus)
 - [脆弱性診断: CVE-2018-17082を用いてPHPのバージョンを特定する](./guess-php-version-by-CVE-2018-17082)
 - [なぜPHPの「XSS」脆弱性CVE-2018-17082はXSS攻撃できないか](./why-CVE-2018-17082-is-not-XSS)
-- [徳丸本VMに1行追加するだけでメールアドレス改ざんの実習環境を作ろう](./web-sec-study\email-address-tampering)
+- [徳丸本VMに1行追加するだけでメールアドレス改ざんの実習環境を作ろう](./email-address-tampering)
 
 YouTubeチャンネル　[徳丸浩のウェブセキュリティ講座](https://www.youtube.com/channel/UCLNW6Bo_YU3TxnzsII2gEDA)
 
