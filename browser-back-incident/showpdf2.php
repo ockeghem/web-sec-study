@@ -1,7 +1,7 @@
 <?php
-$reportid = $_SESSION['reportid'];
 session_start();
 header('Content-Type: application/pdf');
+$reportid = $_GET['reportid'];
 require_once 'idiorm.php';
 
 ORM::configure('mysql:host=127.0.0.1;dbname=wasbook;charset=utf8');
