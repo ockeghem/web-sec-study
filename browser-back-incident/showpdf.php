@@ -1,6 +1,6 @@
 <?php
-$reportid = $_SESSION['reportid'];
 session_start();
+$reportid = $_SESSION['reportid'];
 header('Content-Type: application/pdf');
 require_once 'idiorm.php';
 
