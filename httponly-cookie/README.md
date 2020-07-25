@@ -54,6 +54,6 @@ $.ajax({
 })
 ```
 
-動画URL : [CookieのHttpOnly属性でどこまで安全になるのか]()
+動画URL : [CookieのHttpOnly属性でどこまで安全になるのか](https://youtu.be/4JREwhSC2dQ)
 
 YouTubeチャンネル　[徳丸浩のウェブセキュリティ講座](https://www.youtube.com/channel/UCLNW6Bo_YU3TxnzsII2gEDA)
