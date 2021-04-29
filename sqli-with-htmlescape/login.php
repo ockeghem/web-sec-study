@@ -6,7 +6,7 @@
   // データベースに接続
   $dbh = new PDO('mysql:dbname=test', MYUSER, MYPASS);
   // SQLの組み立て
-  echo 'sql= ' . htmlspecialchars($sql, ENT_NOQUOTES, 'UTF-8') . '<br>';
+  $sql = "SELECT * FROM users WHERE id ='$id' AND pwd = '$pwd'";
   $stmt = $dbh->query($sql);  // クエリー実行
 ?>
 <html>
