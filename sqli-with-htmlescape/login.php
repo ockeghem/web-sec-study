@@ -1,7 +1,7 @@
 <html>
+<head><meta charset="utf-8"></head>
 <body><?php
   require_once 'mysqluser.php';
-  header('Content-Type: text/html; charset=UTF-8');
   $id = htmlspecialchars($_GET['id'], ENT_QUOTES, 'UTF-8');    // ユーザID
   $pwd = htmlspecialchars($_GET['pwd'], ENT_QUOTES, 'UTF-8');  // パスワード
   // データベースに接続
