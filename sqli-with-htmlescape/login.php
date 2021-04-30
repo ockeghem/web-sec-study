@@ -1,11 +1,10 @@
 <html>
 <head><meta charset="utf-8"></head>
 <body><?php
-  require_once 'mysqluser.php';
   $id = htmlspecialchars($_GET['id'], ENT_QUOTES, 'UTF-8');    // ユーザID
   $pwd = htmlspecialchars($_GET['pwd'], ENT_QUOTES, 'UTF-8');  // パスワード
   // データベースに接続
-  $dbh = new PDO('mysql:dbname=test', MYUSER, MYPASS);
+  $dbh = new PDO('mysql:dbname=test', 'test', 'P@ssw0rd!');
   // SQLの組み立て
   $sql = "SELECT * FROM users WHERE id ='$id' AND pwd = '$pwd'";
   echo 'sql= ' . htmlspecialchars($sql, ENT_NOQUOTES, 'UTF-8') . '<br>';
