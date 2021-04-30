@@ -17,6 +17,7 @@ YouTubeチャンネル「徳丸浩のウェブセキュリティ講座」で実�
 - [CVE-2018-17082に学ぶHTTPキャッシュ汚染攻撃](./Introduction-to-cache-poisoning)
 - [戻るボタンで情報が漏洩するサイトを作ってみた](./browser-back-incident)
 - [CookieのHttpOnly属性でどこまで安全になるのか](./httponly-cookie)
+- [間違ったSQLインジェクション対策の攻略法](./sqli-with-htmlescape)
 
 YouTubeチャンネル　[徳丸浩のウェブセキュリティ講座](https://www.youtube.com/channel/UCLNW6Bo_YU3TxnzsII2gEDA)
 
